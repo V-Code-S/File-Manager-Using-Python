@@ -30,3 +30,6 @@ EasyGUI is a module for very simple, very easy GUI programming in Python. EasyGU
 9. Creating a folder
 10. Moving a folder
 11. Initializing window and creating buttons
+
+
+SOURCE CODE IS GIVEN IN FILES
